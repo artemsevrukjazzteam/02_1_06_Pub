@@ -2,10 +2,6 @@
 msgid "A screenshot of a website using AMP."
 msgstr "Una captura de pantalla de un sitio web usando AMP."
 
-#: /views/partials/footer.j2:58
-msgid "AMP 2020"
-msgstr "AMP 2020"
-
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
 msgstr "Una captura de pantalla que muestra la barra lateral de amp."
