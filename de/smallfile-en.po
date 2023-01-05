@@ -8,7 +8,7 @@ msgstr "Ein Screenshot, der die Amp-Sidebar zeigt."
 
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
-msgstr ""
+msgstr "Ein Website-Screenshot.еркриыяри"
 
 #: /views/partials/footer.j2:74
 msgid "AMP Brand Materials"
@@ -16,11 +16,11 @@ msgstr "AMP-Markenmaterialien"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
 msgid "AMP Caches & CORS"
-msgstr ""
+msgstr "впаывыпвып"
 
 #: /views/partials/footer.j2:71
 msgid "AMP Conf 2020"
-msgstr ""
+msgstr "AMP-Conf 2020всаыа"
 
 #: /views/partials/footer.j2:61
 msgid "AMP Conf 2022"
